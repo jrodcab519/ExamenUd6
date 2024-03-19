@@ -22,5 +22,6 @@ public class P2LeeDatos {
         raf.seek(0);
         return raf.readInt();
     }
+
     }
 
